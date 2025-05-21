@@ -1,0 +1,3 @@
+DELETE http://localhost:8080/events/9
+content-type: application/json
+authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3QxQGV4YW1wbGUuY29tIiwiZXhwIjoxNzQ0ODA1ODY1LCJ1c2VySWQiOjF9.MJzQEJf8w6XwbJyS0mHCSOmH74wxxxAlncKmLW86RX0
