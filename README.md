@@ -1,4 +1,4 @@
-# 📅 Event Booking App - API Overview (FullStack App)
+# 📅 Event booking management - API Overview (FullStack App)
 
 ##  Introduction
 
